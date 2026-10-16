@@ -16,7 +16,7 @@
 
 ## `01` &nbsp;// ABOUT ME
 
-I'm a **frontend developer** who builds React and Next.js interfaces and connects them to AI. I've been working **independently** since 2025, shipping websites, 3D web experiences and LLM-powered assistants for clients in Colombia, Peru and the U.S. Before that I was a Software Developer at **CoastalSites**, a U.S. web agency.
+I'm a **frontend developer** who builds React and Next.js interfaces and connects them to AI. I've been working **independently** since 2025, shipping websites, 3D web experiences and LLM-powered assistants for clients in Colombia, Peru and the U.S. 
 
 I care about **fast, accessible interfaces** and **AI features grounded in real data**: function calling, tool use and streaming instead of guesswork.
 
